@@ -1,0 +1,36 @@
+.counter {
+  height: 500px;
+  width: 500px;
+  background-color: darkblue;
+  display: grid;
+  place-content: center;
+  font-size: 100px;
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  float: right;
+}
+
+img {
+  height: 500px;
+}
+
+.cats {
+  float: left;
+}
+
+button {
+  display: grid;
+  font-size: 50px;
+  padding: 250px;
+  background-color: lightblue;
+}
+body {
+  background-color: darkorange;
+}
+h1 {
+  font-size: 100px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  display: grid;
+}
